@@ -1,0 +1,40 @@
+.pepino{
+    font-size: 20px;
+    font-weight: bolder;
+    
+    
+}
+#profesión{
+    font-style: italic;
+    font-size: 15px ;
+    line-height: 0,5;
+}
+
+.card-text{ 
+    color: darkkhaki;
+}
+
+.btn btn-primary{
+    color: aquamarine;
+}
+
+.card-title{
+    font-size: 8px;
+    color: crimson;
+
+
+}
+    
+.navar-brand{
+    color: brown
+;
+}
+
+.breadcrumb{
+    color: blanchedalmond;
+}
+
+.silla {
+    background-color: green !important;
+    
+}
